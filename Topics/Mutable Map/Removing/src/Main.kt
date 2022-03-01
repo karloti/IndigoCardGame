@@ -1,0 +1,1 @@
+fun removing(map: Map<Int, String>, v: String) = map.filterValues { it != v }.toMutableMap()

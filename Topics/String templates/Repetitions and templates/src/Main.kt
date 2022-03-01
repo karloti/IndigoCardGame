@@ -1,0 +1,1 @@
+fun main() = readln().run { println("$length repetitions of the word $this: ${repeat(length)}") }

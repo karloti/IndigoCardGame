@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Indigo Card Game/task/build/
+/Indigo Card Game/task/out/
+/Topics/Image colors/Generate ARGB value/out/
+/Topics/Integers in action/Apple pie/out/
+/Topics/Integers in action/Theory/out/
+/Topics/Integers in action/Time difference/out/
+/Topics/Mutable Map/Application (1)/out/
+/Topics/Mutable Map/Comprehension/out/
+/Topics/Mutable Map/Help the robot/out/
+/Topics/Mutable Map/Removing/out/
+/Topics/Mutable Map/Theory/out/
+/Topics/String templates/Repetitions and templates/build/

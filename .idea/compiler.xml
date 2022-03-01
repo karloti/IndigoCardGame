@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-classes-kotlin.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-reports-tests.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-test-results.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task-build-tmp.main" target="11" />
+      <module name="Indigo_Card_Game.Indigo_Card_Game-task.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Image_colors-Color_instance_initiation.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Image_colors-Generate_ARGB_value.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Image_colors-Print_color.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Image_colors-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Apple_pie.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Declaring_Long.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Good_rest_on_vacation.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Integer division.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-The_number_of_tens.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_Map-About_Mutable_Map.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_Map-Application.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_Map-Application__1_.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_Map-Comprehension.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_Map-Help_the_robot.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_Map-Removing.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-Mutable_Map-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-String_templates-Arithmetic_expression.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-String_templates-Date_and_time_formatting.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-String_templates-How_to_write_string_templates.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-String_templates-Repetitions_and_templates.main" target="11" />
+      <module name="Indigo_Card_Game.Topics-String_templates-Theory.main" target="11" />
+      <module name="Indigo_Card_Game.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
